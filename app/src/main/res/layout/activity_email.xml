@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EmailActivity">
+    <EditText
+        android:layout_centerInParent="true"
+        android:id="@+id/edtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter the email id"
+        android:textSize="25dp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:inputType="textEmailAddress"
+        />
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtxt"
+        android:layout_centerHorizontal="true"
+        android:text="submit"
+        android:textColor="#ffffff"
+        android:background="#DD1559"
+        android:layout_margin="20dp"
+        android:padding="15dp"/>
+
+</RelativeLayout>

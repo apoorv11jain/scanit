@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@mipmap/newlogo">
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:padding="25dp"
+        android:id="@+id/maintext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" This App is made by Android Devleopment team of Prakriti society of MSIT JANKAPURI All rights about the usage of App and working model of the App are reserverd by the creators of the App.click on the link below to contact us for any suggestion and complain. WE APPRECIATE ALL THE SUGGESTION AND TRY TO RESOLVE ALL THE COMPLAINS THANKS FOR USING US"
+        android:textColor="#070606"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_marginBottom="40dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="CONTACT US"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/btn_contact"
+    android:textSize="15sp"
+    android:padding="10dp"
+    android:background="@color/colorPrimary"
+    android:textColor="#ffffff"/>
+</RelativeLayout>

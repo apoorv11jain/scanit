@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment">
+
+
+    <TextView
+        android:id="@+id/txtdone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         android:textColor="#000000"
+        android:text="Your roll umber is been loaded thank you for your paitience"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        android:layout_margin="20dp"
+        android:padding="25dp"/>
+    <RelativeLayout
+        android:id="@+id/progresslayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The Roll numbers are loading please wait"
+            android:layout_above="@id/progressbar"
+            android:layout_margin="25dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="18dp"
+            android:textColor="#000000"
+            />
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressbar"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+
+
+</RelativeLayout>
