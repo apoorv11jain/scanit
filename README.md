@@ -28,12 +28,16 @@ Don't worry Scan it app got you covered 😇.
 * All the API used in the project are reserved for my college MSIT hence the API is removed from the code as well 😅
 
 ## Application Preview 👀
-
+### Starting Page (1st time only)
 ![image](https://github.com/apoorv11jain/scanit/blob/main/images/image_2022-07-09_233620552.png)
-![image](https://github.com/apoorv11jain/scanit/blob/main/images/WhatsApp%20Image%202022-07-09%20at%2011.18.51%20PM.jpeg)
+### Scanner
 ![image](https://github.com/apoorv11jain/scanit/blob/main/images/WhatsApp%20Image%202022-07-09%20at%2011.18.51%20PM%20(2).jpeg)
+### List of Events 
 ![image](https://github.com/apoorv11jain/scanit/blob/main/images/WhatsApp%20Image%202022-07-09%20at%2011.18.51%20PM%20(1).jpeg)
+### Contact Us Page of Yours Truly
 ![image](https://github.com/apoorv11jain/scanit/blob/main/images/WhatsApp%20Image%202022-07-09%20at%2011.18.50%20PM.jpeg)
+
+### The scan it app works in both dark as well as light mode
 
 ### Working of SCAN IT💻
 
