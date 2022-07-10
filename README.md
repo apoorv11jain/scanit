@@ -1,5 +1,4 @@
-# VIRIDI
-
+# SCAN IT
 <p align="center">
   <a href="https://github.com/apoorv11jain/scanit">
     <img src="https://github.com/apoorv11jain/scanit/blob/main/scan_it_logo.png" alt="Logo" >
@@ -26,6 +25,13 @@ Don't worry Scan it app got you covered 😇.
 ## API used:
   
 * All the API used in the project are reserved for my college MSIT hence the API is removed from the code as well 😅
+
+## PREVIEW VIDEO (DARK MODE)
+
+
+
+https://user-images.githubusercontent.com/55422668/178131081-87393f7b-a807-4a23-819d-f3d26624f95a.mp4
+
 
   
 ### Working of SCAN IT💻
